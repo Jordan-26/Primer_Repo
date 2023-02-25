@@ -14,3 +14,6 @@ El Markdown es un estandar en los repositorios de gitHub, GitLab, bitBucket, Azu
 - [ ] ZANAHORIA
 - [ ] CHAYOTTE
 - [ ] POLLITO
+
+## Una URL 
+(ir al tec de Mérida) [https://www.merida.tecnm.mx/]
